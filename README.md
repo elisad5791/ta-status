@@ -11,7 +11,7 @@ Node.js
 ### Установка и запуск
 
 ```
-  git clone git@github.com:elisad5791/ta-statu.git
+  git clone git@github.com:elisad5791/ta-status.git
   cd ta-status
   npm install
   npm start
